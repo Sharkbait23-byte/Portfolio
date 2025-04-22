@@ -13,7 +13,7 @@ Database manager with SQLite and Python in the terminal.
 
 ## Installation
 ```bash
-git clone https://github.com/Sharkbait23-byte/Portfolio/db-python-simple
+git clone https://github.com/Sharkbait23-byte/db-python-simple
 
 cd db-python-simple
 
